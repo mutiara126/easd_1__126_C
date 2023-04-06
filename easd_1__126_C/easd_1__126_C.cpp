@@ -37,5 +37,6 @@ void s_sort(int mutiara[],int n) {
 
 
 
+
 	
 	
